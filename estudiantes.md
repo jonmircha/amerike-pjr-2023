@@ -1,10 +1,10 @@
-### Fernando Javier Cossio Ruiz
+### Angel Gabriel Legorreta González
 
-Estudiante de dev de videojuegos. Buscando entrar al AAA y escapar de latinoamérica :V 
+Mi nombre es Angel tengo 23 años y estoy estudiando 3 carreras diseño grafico, programación y doblaje
 
-- [Mi correo](cdmx1949@amerike.edu.mx)
-- [Mi GitHub](https://github.com/Fernando747400)
+- [Mi correo es este:](cdmx1895@amerike.edu.mx)
+- [Tu perfil de _GitHub_ es: ](https://github.com/SrAlmeja)
 
-![Fernando](https://tinyurl.com/4zzwmwmv)
+![Angel G. Legorreta (Sr. Almeja)](./Img/IO.jpg)
 
 ---
