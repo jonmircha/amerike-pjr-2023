@@ -37,3 +37,18 @@ Estudiante de dev de videojuegos. Buscando entrar al AAA y escapar de latinoamé
 - [Mi GitHub](https://github.com/Fernando747400)
 
 ![Fernando](./Img/Fer.jpeg)
+
+---
+
+### Raymundo Giron Mosqueda 
+
+Soy Raymundo Giron Mosqueda. Estudiante de Desarrollo de software interactivo y
+video juegos.  
+
+- [cdmx1778@amerike.edu.mx](cdmx1778@amerike.edu.mx)
+- [Mi Github](cdmx1778@amerike.edu.mx)  
+
+![Raymundo Mosqueda](./img/ray.jpg)
+
+---
+
